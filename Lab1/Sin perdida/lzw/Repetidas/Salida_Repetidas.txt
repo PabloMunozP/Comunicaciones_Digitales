@@ -1,0 +1,33 @@
+
+ Repetidas
+Diferencia 144 bytes    Entropia: 3.4431545010081224
+Diferencia 144 bytes    Entropia: 3.4431545010081224
+Diferencia 144 bytes    Entropia: 3.4431545010081224
+Diferencia 144 bytes    Entropia: 3.4431545010081224
+Diferencia 144 bytes    Entropia: 3.0869433830510253
+Diferencia 144 bytes    Entropia: 3.0869433830510253
+Diferencia 235 bytes    Entropia: 3.169520568098907
+Diferencia 145 bytes    Entropia: 3.3583523565641986
+Diferencia 145 bytes    Entropia: 3.321312380204671
+Diferencia 144 bytes    Entropia: 3.393969739760013
+Diferencia 144 bytes    Entropia: 3.36399901028105
+Diferencia 144 bytes    Entropia: 3.4206825908957628
+Diferencia 148 bytes    Entropia: 3.3836481796070355
+Diferencia 144 bytes    Entropia: 3.3995877172881026
+Diferencia 144 bytes    Entropia: 3.380613314192138
+Diferencia 145 bytes    Entropia: 3.3560658686587477
+Diferencia 144 bytes    Entropia: 3.4052056948161926
+Diferencia 145 bytes    Entropia: 3.077717531664879
+Diferencia 157 bytes    Entropia: 3.3464232814657837
+Diferencia 148 bytes    Entropia: 3.3843909732045554
+Diferencia 144 bytes    Entropia: 3.403828658311493
+Diferencia 145 bytes    Entropia: 3.320164514817961
+Diferencia 145 bytes    Entropia: 3.3359723053104995
+Diferencia 146 bytes    Entropia: 3.3165168801091562
+Diferencia 145 bytes    Entropia: 3.3216272027429916
+Diferencia 160 bytes    Entropia: 3.3010088084187204
+Diferencia 144 bytes    Entropia: 3.4017081877997977
+Diferencia 144 bytes    Entropia: 3.403828658311493
+Diferencia 190 bytes    Entropia: 3.3374647700568385
+Diferencia 144 bytes    Entropia: 3.4206825908957628
+Tiempo: 0.0020833333333333333 segundos

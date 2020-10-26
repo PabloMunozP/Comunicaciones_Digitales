@@ -1,0 +1,33 @@
+
+ Aleatorias
+Diferencia -81 bytes    Entropia: 4.99661351388885
+Diferencia -10 bytes    Entropia: 6.129470235365595
+Diferencia -21 bytes    Entropia: 6.089644537957496
+Diferencia -22 bytes    Entropia: 6.081840661279104
+Diferencia -17 bytes    Entropia: 6.133921345468922
+Diferencia -19 bytes    Entropia: 6.091655821178012
+Diferencia -12 bytes    Entropia: 6.13116976445498
+Diferencia -22 bytes    Entropia: 6.102080635996603
+Diferencia -26 bytes    Entropia: 6.079663270359184
+Diferencia -12 bytes    Entropia: 6.123154664852831
+Diferencia -20 bytes    Entropia: 6.055861084935714
+Diferencia -18 bytes    Entropia: 6.100576735803595
+Diferencia -18 bytes    Entropia: 6.104982581706351
+Diferencia -24 bytes    Entropia: 6.070006886058803
+Diferencia -27 bytes    Entropia: 6.060198515257031
+Diferencia -21 bytes    Entropia: 6.087573403204124
+Diferencia -19 bytes    Entropia: 6.102798699439576
+Diferencia -19 bytes    Entropia: 6.106272718887651
+Diferencia -15 bytes    Entropia: 6.07965204562608
+Diferencia -18 bytes    Entropia: 6.1169088803582925
+Diferencia -13 bytes    Entropia: 6.09025089541588
+Diferencia -25 bytes    Entropia: 6.0205692403563065
+Diferencia -17 bytes    Entropia: 6.109152293071715
+Diferencia -18 bytes    Entropia: 6.088783527518199
+Diferencia -17 bytes    Entropia: 6.121390743591493
+Diferencia -25 bytes    Entropia: 6.043311981132796
+Diferencia -12 bytes    Entropia: 6.138809317383425
+Diferencia -23 bytes    Entropia: 6.063690593089249
+Diferencia -26 bytes    Entropia: 6.0731418740021015
+Diferencia -18 bytes    Entropia: 6.120728851502573
+Tiempo: 0.003125 segundos

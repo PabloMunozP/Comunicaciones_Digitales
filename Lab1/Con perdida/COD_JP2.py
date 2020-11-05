@@ -1,6 +1,7 @@
 from time import process_time
 from PIL import Image
 import os
+from skimage.measure.entropy import shannon_entropy
 time_start = process_time()
 
 
@@ -16,4 +17,10 @@ tiempo=(time_stop-time_start)/30
 salida.write('Tiempo de compresion: '+str(tiempo)+' segundos')
 print("Tiempo compresión:", tiempo, " sec.")
 salida.close()
+
+entropia=0
+for i in range (1,31):
+    img2 = Image.open ("COD_JP2/" + str(i) + '_jp2.jp2')
+    entropia= shannon_entropy(img2) + entropia
+print(entropia/30, " Entropia promedio")
 
